@@ -67,11 +67,3 @@ Applications get one payment contract. Provider adapters absorb the credentials,
 <br>
 
 >Not sure which? [Compare the server and the library](https://momobasehq.github.io/guide/choose).
-
-## Next steps
-
-- [Guide](https://momobasehq.github.io/guide/) - concepts, routing, reconciliation
-- [Your first payment](https://momobasehq.github.io/guide/first-payment) - end to end in a few minutes
-- [API reference](https://momobasehq.github.io/api-reference) - OpenAPI explorer
-- [Contributing](https://momobasehq.github.io/contributing)
-
